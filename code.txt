@@ -1,0 +1,6 @@
+set reg5 1
+set reg6 1
+add
+copy reg5 reg6
+copy reg7 reg5
+jump 2
